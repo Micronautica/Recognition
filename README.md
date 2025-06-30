@@ -1,10 +1,5 @@
 # Recognition: A Formal Mathematics of Consciousness
-
-**An open-source project proposing a formal mathematics for consciousness. This framework, "Recognition Math," offers a unified solution to the AI alignment problem, the hard problem of consciousness, and the quantum observer effect.**
-
----
-Technosophy Vol. 1 & 2
-A Mathematical Framework for AI Alignment Based on Moral Recognition, Not Behavioral Control.
+An open-source project proposing a formal mathematics for consciousness, derived from the framework presented in Technosophy Vol. 1 & 2. This work offers a potential unified solution to the AI alignment problem, the hard problem of consciousness, and the quantum observer effect.
 ---
 The Problem: The Mirror Fallacy
 
