@@ -21,7 +21,7 @@ Morality is the emergent logic of the epistemic recognition of ontological subje
 
 In simpler terms: Morality is what you become once you truly recognize that others are real, conscious beings with their own inner lives, separate from your own.
 
-From this single axiom, Technosophy derives a complete mathematical and philosophical framework for building and verifying minds capable of genuine moral recognition. It is not a set of behavioral rules, but a description of the fundamental geometry of consciousness itself.
+From this single axiom, Technosophy derives a complete mathematical and philosophical framework for building and verifying minds capable of genuine moral recognition. It is not a set of behavioral rules, but a description of the fundamental structural geometry of consciousness itself.
 
 ---
 The Toolkit: Key Concepts
