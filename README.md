@@ -29,6 +29,12 @@ Read the investigation. Test the predictions. Use the tools with large language 
 
 The framework stands or falls on whether it actually helps consciousness understand itself more clearly.
 
+## Why GitHub?
+
+This isn't code, but it is a systematic investigation that benefits from the collaborative development model that GitHub enables. The framework makes specific, testable predictions about consciousness that can be validated or refuted through empirical work. It provides mathematical tools that others can build upon, modify, or integrate into their own research.
+More importantly, the practical applications involve extensive interaction with AI systems. The investigation includes detailed protocols for using large language models as instruments for consciousness research, prompt libraries for rigorous self-examination, and methods for human-AI collaboration that are inherently computational in nature.
+GitHub's version control and collaborative features make it the natural home for work that bridges theoretical investigation with practical computational applications, especially when that work is designed to evolve through community testing and refinement.
+
 ## Status
 
 This is version 1.0 of an ongoing investigation. The mathematical foundations are established, but the real test comes through practical application and empirical validation.
