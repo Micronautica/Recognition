@@ -33,8 +33,9 @@ The framework stands or falls on whether it actually helps consciousness underst
 
 This is version 1.0 of an ongoing investigation. The mathematical foundations are established, but the real test comes through practical application and empirical validation.
 
-
+**[Read the full investigation](The_View_From_Somewhere.pdf)**
 
 ## License
 
 CC BY-SA 4.0
+
